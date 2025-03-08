@@ -1,4 +1,4 @@
-from testingmodel import *
+from take_attendence import *
 from register import *
     
 while True :
